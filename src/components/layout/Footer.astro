@@ -49,95 +49,23 @@ const startYear = siteConfig?.startYear ?? currentYear;
 
     <!-- Busuanzi Stats -->
     <div class="text-muted-foreground flex flex-col items-center justify-center gap-2 text-sm">
-      <!-- 今日统计 -->
+      <script src="//cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
       <div class="flex items-center justify-center gap-4">
-        <span class="flex items-center gap-1 opacity-75 transition-opacity duration-300 hover:opacity-100">
-          <Icon name="ri:time-line" class="h-4 w-4" />
-          <span>今日总访问量</span>
-          <span id="busuanzi_today_pv" class="font-medium">加载中...</span>
-          <span class="text-xs">次</span>
-        </span>
+        <span>今日总访问量 <span id="busuanzi_today_pv">加载中...</span> 次</span>
         <span class="opacity-50">|</span>
-        <span class="flex items-center gap-1 opacity-75 transition-opacity duration-300 hover:opacity-100">
-          <Icon name="ri:user-line" class="h-4 w-4" />
-          <span>今日总访客数</span>
-          <span id="busuanzi_today_uv" class="font-medium">加载中...</span>
-          <span class="text-xs">人</span>
-        </span>
+        <span>今日总访客数 <span id="busuanzi_today_uv">加载中...</span> 人</span>
       </div>
-
-      <!-- 本站统计 -->
       <div class="flex items-center justify-center gap-4">
-        <span class="flex items-center gap-1 opacity-75 transition-opacity duration-300 hover:opacity-100">
-          <Icon name="ri:global-line" class="h-4 w-4" />
-          <span>本站总访问量</span>
-          <span id="busuanzi_site_pv" class="font-medium">加载中...</span>
-          <span class="text-xs">次</span>
-        </span>
+        <span>本站总访问量 <span id="busuanzi_site_pv">加载中...</span> 次</span>
         <span class="opacity-50">|</span>
-        <span class="flex items-center gap-1 opacity-75 transition-opacity duration-300 hover:opacity-100">
-          <Icon name="ri:team-line" class="h-4 w-4" />
-          <span>本站总访客数</span>
-          <span id="busuanzi_site_uv" class="font-medium">加载中...</span>
-          <span class="text-xs">人</span>
-        </span>
+        <span>本站总访客数 <span id="busuanzi_site_uv">加载中...</span> 人</span>
       </div>
-
-      <!-- 本页统计 -->
       <div class="flex items-center justify-center gap-4">
-        <span class="flex items-center gap-1 opacity-75 transition-opacity duration-300 hover:opacity-100">
-          <Icon name="ri:file-line" class="h-4 w-4" />
-          <span>本页总阅读量</span>
-          <span id="busuanzi_page_pv" class="font-medium">加载中...</span>
-          <span class="text-xs">次</span>
-        </span>
+        <span>本页总阅读量 <span id="busuanzi_page_pv">加载中...</span> 次</span>
         <span class="opacity-50">|</span>
-        <span class="flex items-center gap-1 opacity-75 transition-opacity duration-300 hover:opacity-100">
-          <Icon name="ri:user-smile-line" class="h-4 w-4" />
-          <span>本页总访客数</span>
-          <span id="busuanzi_page_uv" class="font-medium">加载中...</span>
-          <span class="text-xs">人</span>
-        </span>
+        <span>本页总访客数 <span id="busuanzi_page_uv">加载中...</span> 人</span>
       </div>
     </div>
-
-<!-- 不蒜子计数 -->
-<script>
-// 先定义不蒜子配置
-window.busuanzi = window.busuanzi || {};
-window.busuanzi.cfg = window.busuanzi.cfg || {};
-window.busuanzi.cfg.domain = 'busuanzi.cc';
-</script>
-<script async src="//cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
-<script>
-// 监听不蒜子脚本加载完成并更新统计数据
-function checkBusuanzi() {
-    // 检查所有统计元素是否仍显示"加载中..."
-    const elements = [
-        "busuanzi_today_pv", "busuanzi_today_uv",
-        "busuanzi_site_pv", "busuanzi_site_uv",
-        "busuanzi_page_pv", "busuanzi_page_uv"
-    ];
-    
-    let allUpdated = true;
-    
-    elements.forEach(id => {
-        const element = document.getElementById(id);
-        if (element && element.textContent === "加载中...") {
-            allUpdated = false;
-        }
-    });
-    
-    if (!allUpdated) {
-        // 仍有元素显示"加载中..."，继续检查
-        setTimeout(checkBusuanzi, 100);
-    }
-}
-
-// 页面加载完成后开始检查
-window.addEventListener('DOMContentLoaded', checkBusuanzi);
-</script>
-<!-- 不蒜子计数 -->
 
     <!-- Copyright -->
     <div class="text-muted-foreground flex items-center gap-0.5 text-sm">

@@ -21,7 +21,7 @@ npm install -g pnpm
 
 ```bash
 # 方式一：克隆仓库
-git clone https://github.com/cosZone/astro-koharu.git
+git clone https://github.com/mydaozun/astro-koharu.git
 cd astro-koharu
 
 # 方式二：使用 GitHub 模板（推荐）
@@ -305,7 +305,7 @@ pnpm koharu update --tag v2.1.0
 pnpm koharu backup --full
 
 # 2. 添加上游仓库（只需执行一次）
-git remote add upstream https://github.com/cosZone/astro-koharu.git
+git remote add upstream https://github.com/mydaozun/astro-koharu.git
 
 # 3. 获取最新代码
 git fetch upstream

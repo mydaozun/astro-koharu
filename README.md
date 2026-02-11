@@ -8,7 +8,7 @@
 
 博客整体设计灵感来自 Hexo 的 [Shoka](https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/) 主题，用更现代的技术栈打造属于你的个人博客。
 
-本仓库已清理为示例仓库，主题开发者的博客可查看 https://blog.cosine.ren/ 喜欢的话欢迎 star ～
+本仓库已清理为示例仓库，主题开发者的博客可查看 https://bk.52cbg.cn/ 喜欢的话欢迎 star ～
 
 持续迭代中
 
@@ -60,7 +60,7 @@ docker compose --env-file ./.env -f docker/docker-compose.yml up -d --build
 1. 克隆项目到本地
 
 ```bash
-git clone https://github.com/cosZone/astro-koharu
+git clone https://github.com/mydaozun/astro-koharu
 ```
 
 2. 进入项目目录并安装依赖
@@ -100,7 +100,7 @@ pnpm dev
 - [可开关] AI 自动摘要生成，自动生成摘要。
 - [可开关] 圣诞特辑：包含雪花飘落、圣诞配色、圣诞帽装饰、灯串装饰等节日氛围效果
 - 无后端站点公告系统：可通过配置文件管理公告，支持时间控制、多条公告堆叠、自定义颜色、hover 已读
-- 有样式的 [RSS](https://blog.cosine.ren/rss.xml) 订阅源链接
+- 有样式的 [RSS](https://bk.52cbg.cn/rss.xml) 订阅源链接
 - **Koharu CLI**：交互式命令行工具，支持备份/还原、内容生成、备份管理
 - **本地轻 CMS 应用**：运行 `pnpm cms` 启动独立的 CMS 管理界面，支持文章管理、浏览器内编辑、Markdown 预览等功能。文章页的编辑按钮支持一键跳转到本地编辑器（VS Code / Cursor / Zed），配置见 `config/site.yaml` 的 `dev` 部分。(后期会考虑做个有后端的版本，这期先静态)
 
@@ -252,16 +252,16 @@ comment:
 
 ## 特色功能演示图片
 
-- 图片加载前显示渐变色占位，提升视觉体验 - [介绍文章](https://blog.cosine.ren/post/astro-lqip-implementation)
+- 图片加载前显示渐变色占位，提升视觉体验 - [介绍文章](https://bk.52cbg.cn/post/astro-lqip-implementation)
   ![LQIP](https://r2.cosine.ren/i/2025/12/40e44c8ac166183d5f823d7aa81fa792.webp)
 - 使用 view-transition 实现的流畅的深色模式切换主题过渡动画。
   ![主题过渡动画](https://r2.cosine.ren/i/2025/12/418c7602ce115660bed9db66739370d5.gif)
-- Markdown 增强 - 链接嵌入功能 - [示例](https://blog.cosine.ren/post/my-claude-code-record-2)
+- Markdown 增强 - 链接嵌入功能 - [示例](https://bk.52cbg.cn/post/my-claude-code-record-2)
   ![链接嵌入功能](https://r2.cosine.ren/i/2026/01/6804aa167fd4cf7022a9b511d52017ce.webp)
 - Markdown 增强 - 使用 [@antv/infographic](https://github.com/antvis/Infographic) 创建各种精美的信息图表。
   [Infographic 信息图指南](https://koharu.cosine.ren/post/infographic-guide)
   ![信息图语法](https://r2.cosine.ren/i/2026/01/581893e18557bcb837177cb2d6fb7af7.webp)
-- 有样式的 RSS 订阅源链接 - [示例](https://blog.cosine.ren/rss.xml)
+- 有样式的 RSS 订阅源链接 - [示例](https://bk.52cbg.cn/rss.xml)
   ![RSS 订阅源链接](https://r2.cosine.ren/i/2026/01/4476f67d1acea2e0991cc70d1d3cf6a1.webp)
 - 公告系统
   ![公告系统](https://r2.cosine.ren/i/2026/01/a4660955f52438b3cc2d21bdc931bbd4.gif)
@@ -275,7 +275,7 @@ comment:
 
 | 博客名称                                  | 作者       | 仓库                                                            | 特色功能 or 备注             |
 | ----------------------------------------- | ---------- | --------------------------------------------------------------- | ---------------------------- |
-| **[余弦の博客](http://blog.cosine.ren/)** | **cosine** | [cosZone/astro-koharu](https://github.com/cosZone/astro-koharu) | 本主题                       |
+| **[daozunの博客](http://bk.52cbg.cn/)** | **cosine** | [cosZone/astro-koharu](https://github.com/cosZone/astro-koharu) | 本主题                       |
 | [雪花的博客](https://xhblog.top/)         | XueHua-s   | [XueHua-s/astro-snow](https://github.com/XueHua-s/astro-snow)   | 精简了很多功能，增加了起始页 |
 
 ## 🙏 鸣谢
