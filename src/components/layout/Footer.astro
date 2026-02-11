@@ -105,29 +105,6 @@ const startYear = siteConfig?.startYear ?? currentYear;
 <script async src="//cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
 <!-- 不蒜子计数 -->
 
-<!-- 不蒜子计数初始值纠正 -->
-<script>
-window.addEventListener('DOMContentLoaded', function() {
-
-    var countOffset = 20000;  // 初始化首次数据
-    var elementIds = [
-        "busuanzi_today_pv", "busuanzi_today_uv",
-        "busuanzi_site_pv", "busuanzi_site_uv",
-        "busuanzi_page_pv", "busuanzi_page_uv"
-    ];
-
-    // 直接设置初始值
-    elementIds.forEach(function(elementId) {
-        var element = document.getElementById(elementId);
-        if (element) {
-            // 直接设置为初始值，由服务器处理后续更新
-            element.textContent = countOffset;
-        }
-    });
-
-});
-</script>
-
     <!-- Copyright -->
     <div class="text-muted-foreground flex items-center gap-0.5 text-sm">
       <span class="opacity-75">©</span>
