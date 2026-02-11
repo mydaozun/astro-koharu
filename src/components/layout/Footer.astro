@@ -102,7 +102,41 @@ const startYear = siteConfig?.startYear ?? currentYear;
     </div>
 
 <!-- 不蒜子计数 -->
+<script>
+// 先定义不蒜子配置
+window.busuanzi = window.busuanzi || {};
+window.busuanzi.cfg = window.busuanzi.cfg || {};
+window.busuanzi.cfg.domain = 'busuanzi.cc';
+</script>
 <script async src="//cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
+<script>
+// 监听不蒜子脚本加载完成并更新统计数据
+function checkBusuanzi() {
+    // 检查所有统计元素是否仍显示"加载中..."
+    const elements = [
+        "busuanzi_today_pv", "busuanzi_today_uv",
+        "busuanzi_site_pv", "busuanzi_site_uv",
+        "busuanzi_page_pv", "busuanzi_page_uv"
+    ];
+    
+    let allUpdated = true;
+    
+    elements.forEach(id => {
+        const element = document.getElementById(id);
+        if (element && element.textContent === "加载中...") {
+            allUpdated = false;
+        }
+    });
+    
+    if (!allUpdated) {
+        // 仍有元素显示"加载中..."，继续检查
+        setTimeout(checkBusuanzi, 100);
+    }
+}
+
+// 页面加载完成后开始检查
+window.addEventListener('DOMContentLoaded', checkBusuanzi);
+</script>
 <!-- 不蒜子计数 -->
 
     <!-- Copyright -->
