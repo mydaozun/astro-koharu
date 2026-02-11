@@ -15,7 +15,7 @@ site:
   alternate: daozun # 网站英文名称 用于页脚、Logo、@ handle 等
   subtitle: WA 的一声就哭了 # 网站副标题
   name: daozun # 作者名称 - 请修改为你的名字
-  description: 一个基于 Astro 的现代化博客主题 # 网站描述
+  description: daozun 的现代化博客主题 # 网站描述
   avatar: /img/avatar.webp # 网站头像
   showLogo: true # 是否显示 Logo
   author: daozun # 作者名称 - 请修改为你的名字
@@ -108,7 +108,7 @@ featuredSeries:
     enabled: true # 启用此系列
     icon: ri:newspaper-line # 导航图标
     links: # 相关链接（可选）
-      github: https://github.com/your-username/your-repo # (可选) GitHub 仓库
+      github: https://github.com/mydaozun # (可选) GitHub 仓库
       rss: /rss.xml # (可选) RSS 订阅链接
       # chrome: https://chromewebstore.google.com/detail/your-extension-id # (可选) 浏览器插件
       # docs: https://your-docs-url # (可选) 文档链接
@@ -162,10 +162,10 @@ social:
   #   url: https://www.zhihu.com/people/your-id
   #   icon: ri:zhihu-fill
   #   color: '#1e88e5'
-  # music:
-  #   url: https://music.163.com/#/user/home?id=your-id
-  #   icon: ri:netease-cloud-music-line
-  #   color: '#e60026'
+  music:
+    url: https://music.163.com/#/user/home?id=477413891
+    icon: ri:netease-cloud-music-line
+    color: '#e60026'
 
 # =============================================================================
 # Friends Links
@@ -199,30 +199,13 @@ friends:
         image: https://your-blog.com/avatar.jpg # 头像链接
         color: "#ffc0cb" # 主题色（可选）
   data: # 友链列表
-    - site: 余弦の博客
-      url: https://blog.cosine.ren
-      owner: cos
-      desc: FE / ACG / 手工 / 深色模式强迫症 / INFP / 兴趣广泛养两只猫的老宅女 / remote
-      image: https://blog.cosine.ren/img/avatar.webp
+    - site: daozunの文档
+      url: https://doc.52cbg.cn
+      owner: doc
+      desc: FE / ACG / 手工 / 深色模式强迫症 / INFP / 兴趣广泛的老处男 / remote
+      image: https://doc.52cbg.cn/logo.png
       color: '#ed788b'
-    - site: 示例博客 A
-      url: https://example-a.com
-      owner: Alice
-      desc: 一个热爱技术的开发者
-      image: https://api.dicebear.com/7.x/avataaars/svg?seed=Alice
-      color: '#BEDCFF'
-    - site: 示例博客 B
-      url: https://example-b.com
-      owner: Bob
-      desc: 分享生活与技术的小站
-      image: https://api.dicebear.com/7.x/avataaars/svg?seed=Bob
-      color: '#FBC1CC'
-    - site: 示例博客 C
-      url: https://example-c.com
-      owner: Carol
-      desc: 记录学习与成长的地方
-      image: https://api.dicebear.com/7.x/avataaars/svg?seed=Carol
-      color: '#ABDCFF'
+
 
 # =============================================================================
 # Announcements
@@ -256,7 +239,7 @@ announcements:
   #   startDate: '2025-12-31T00:00:00+08:00' # (可选) 开始显示时间
   #   endDate: '2026-01-15T23:59:59+08:00' # (可选) 结束显示时间
   #   link: # (可选) 相关链接
-  #     url: https://example.com
+  #     url: https://bk.52cbg.cn
   #     text: 了解更多
   #     external: true # 新窗口打开
   # - id: maintenance-notice
