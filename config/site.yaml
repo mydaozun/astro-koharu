@@ -439,7 +439,7 @@ comment:
   #   lang: zh-CN                      # 语言
 
   waline:
-    serverURL: https://astro-waline-pink.vercel.app/  # Waline 服务端地址 (必填)
+    serverURL: https://waline.52cbg.cn/  # Waline 服务端地址 (必填)
     lang: zh-CN                      # 语言 (默认: 'zh-CN')
     dark: html.dark                  # 暗黑模式 (默认: 'html.dark')
                                      # 可选: true (自适应) | false (禁用) | CSS选择器字符串
