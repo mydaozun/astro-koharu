@@ -109,44 +109,21 @@ const startYear = siteConfig?.startYear ?? currentYear;
 <script>
 window.addEventListener('DOMContentLoaded', function() {
 
-    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
     var countOffset = 20000;  // 初始化首次数据
-    var processedElements = 0;
-    var totalElements = 6; // 总共6个统计元素
-    var processedIds = new Set(); // 用于跟踪已经处理过的元素
+    var elementIds = [
+        "busuanzi_today_pv", "busuanzi_today_uv",
+        "busuanzi_site_pv", "busuanzi_site_uv",
+        "busuanzi_page_pv", "busuanzi_page_uv"
+    ];
 
-    function fixCount() {
-        // 今日统计
-        processElement("busuanzi_today_pv");
-        processElement("busuanzi_today_uv");
-        
-        // 本站统计
-        processElement("busuanzi_site_pv");
-        processElement("busuanzi_site_uv");
-        
-        // 本页统计
-        processElement("busuanzi_page_pv");
-        processElement("busuanzi_page_uv");
-    }
-    
-    function processElement(elementId) {
-        // 如果已经处理过这个元素，就跳过
-        if (processedIds.has(elementId)) {
-            return;
-        }
-        
+    // 直接设置初始值
+    elementIds.forEach(function(elementId) {
         var element = document.getElementById(elementId);
-        if (element && element.textContent && !isNaN(parseInt(element.textContent))) {
-            element.textContent = parseInt(element.textContent) + countOffset;
-            processedIds.add(elementId); // 标记为已处理
-            processedElements++;
-            
-            // 所有元素都处理完成后清除定时器
-            if (processedElements >= totalElements) {
-                clearInterval(int);
-            }
+        if (element) {
+            // 直接设置为初始值，由服务器处理后续更新
+            element.textContent = countOffset;
         }
-    }
+    });
 
 });
 </script>
