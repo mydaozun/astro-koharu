@@ -16,13 +16,13 @@ categories:
 
 一份完整的 astro-koharu 博客系统使用指南，帮助你快速上手并充分利用所有功能特性。
 
-https://github.com/cosZone/astro-koharu
+https://github.com/mydaozun/astro-koharu
 
 ## 快速开始
 
 ### 项目简介
 
-astro-koharu 是一个基于 Astro 5.x 构建的现代化博客系统，从 Hexo 迁移而来，设计灵感和初衷都来自 [Shoka](https://github.com/amehime/hexo-theme-shoka) 主题。欢迎 [fork](https://github.com/cosZone/astro-koharu/fork) 出来制作自己的主题。
+astro-koharu 是一个基于 Astro 5.x 构建的现代化博客系统，从 Hexo 迁移而来，设计灵感和初衷都来自 [Shoka](https://github.com/amehime/hexo-theme-shoka) 主题。欢迎 [fork](https://github.com/mydaozun/astro-koharu/fork) 出来制作自己的主题。
 
 **核心特点：**
 
@@ -45,7 +45,7 @@ astro-koharu 是一个基于 Astro 5.x 构建的现代化博客系统，从 Hexo
 
 ```bash
 # 克隆项目
-git clone https://github.com/cosZone/astro-koharu.git
+git clone https://github.com/mydaozun/astro-koharu.git
 cd astro-koharu
 
 # 安装依赖
@@ -65,7 +65,7 @@ pnpm preview
 
 使用 Vercel 进行一键部署：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cosZone/astro-koharu&project-name=astro-koharu&repository-name=astro-koharu)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cosZonemydaozun/astro-koharu&project-name=astro-koharu&repository-name=astro-koharu)
 
 ## 基本配置
 
@@ -78,19 +78,18 @@ pnpm preview
 # 站点基础信息
 # =============================================================================
 site:
-  title: 余弦の博客 # 网站标题
-  alternate: cosine # 英文短名（用作 logo 文本）
+  title: daozunの博客 # 网站标题
+  alternate: daozun # 英文短名（用作 logo 文本）
   subtitle: WA 的一声就哭了 # 副标题
-  name: cos # 站点作者简称
+  name: daozun # 站点作者简称
   description: FE / ACG / 手工 / 深色模式强迫症 / INFP # 站点简介
   avatar: /img/avatar.webp # 头像路径
   showLogo: true # 是否显示 logo
-  author: cos # 文章作者
+  author: daozun # 文章作者
   url: https://blog.cosine.ren/ # 站点域名
   startYear: 2020 # 站点创建年份
   keywords: # SEO 关键词
-    - cos
-    - cosine
+    - daozun
     - 博客
     - 技术
     - 前端
@@ -1631,7 +1630,7 @@ fn main() {
 ```markdown
 {% media audio %}
 - name: 歌曲名称
-  url: https://music.163.com/#/song?id=3339210292
+  url: https://music.163.com/#/song?id=14172221273
 {% endmedia %}
 ```
 
@@ -1639,7 +1638,7 @@ fn main() {
 
 {% media audio %}
 - name: 示例音频
-  url: https://music.163.com/#/song?id=3339210292
+  url: https://music.163.com/#/song?id=14172221273
 {% endmedia %}
 
 支持歌单模式，可配置多个分组：
@@ -1648,20 +1647,20 @@ fn main() {
 {% media audio %}
 - title: 歌单名称 1
   list:
-    - https://music.163.com/#/playlist?id=8676645748
+    - https://music.163.com/#/playlist?id=14172221273
 - title: 歌单名称 2
   list:
-    - https://music.163.com/#/playlist?id=17606384886
+    - https://music.163.com/#/playlist?id=14172221273
 {% endmedia %}
 ```
 
 {% media audio %}
 - title: 歌单名称 1
   list:
-    - https://music.163.com/#/playlist?id=8676645748
+    - https://music.163.com/#/playlist?id=14172221273
 - title: 歌单名称 2
   list:
-    - https://music.163.com/#/playlist?id=17606384886
+    - https://music.163.com/#/playlist?id=14172221273
 {% endmedia %}
 
 *视频播放器（`enableShokaHexoTags`）：*

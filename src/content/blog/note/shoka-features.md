@@ -372,13 +372,13 @@ $$
 ```markdown
 {% media audio %}
 - name: 示例音频
-  url: https://music.163.com/#/song?id=3339210292
+  url: https://music.163.com/#/song?id=14172221273
 {% endmedia %}
 ```
 
 {% media audio %}
 - name: 示例音频
-  url: https://music.163.com/#/song?id=3339210292
+  url: https://music.163.com/#/song?id=14172221273
 {% endmedia %}
 
 ### 音频歌单
@@ -387,20 +387,20 @@ $$
 {% media audio %}
 - title: 诗岸歌单 山山～全是山山～
   list:
-    - https://music.163.com/#/playlist?id=8676645748
+    - https://music.163.com/#/playlist?id=14172221273
 - title: 『诗岸』全是山山！
   list:
-    - https://music.163.com/#/playlist?id=17606384886
+    - https://music.163.com/#/playlist?id=14172221273
 {% endmedia %}
 ```
 
 {% media audio %}
 - title: 诗岸歌单 山山～全是山山～
   list:
-    - https://music.163.com/#/playlist?id=8676645748
+    - https://music.163.com/#/playlist?id=14172221273
 - title: 『诗岸』全是山山！
   list:
-    - https://music.163.com/#/playlist?id=17606384886
+    - https://music.163.com/#/playlist?id=14172221273
 {% endmedia %}
 
 ### 视频
