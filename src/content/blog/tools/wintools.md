@@ -1,6 +1,6 @@
 ---
 title: windows自用必装软件
-link: joox
+link: wintools
 catalog: true
 date: 2026-02-14 09:55:00
 math: true
