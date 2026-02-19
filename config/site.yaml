@@ -343,6 +343,9 @@ navigation:
   - name: 歌单
     path: /music
     icon: ri:music-2-fill
+  - name: 看世界
+    path: /60
+    icon: ri:news-line
 
 # =============================================================================
 # Christmas/Seasonal Features
