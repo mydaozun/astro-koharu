@@ -5,7 +5,7 @@ catalog: true
 date: 2026-02-14 09:55:00
 math: true
 quiz: true
-description: windows自用必装软件，包含快速开始、配置说明、文章系统、界面功能等详细介绍
+description: 
 tags:
   - windows
   - 教程
