@@ -5,7 +5,7 @@ catalog: true
 date: 2026-02-21 09:55:00
 math: true
 quiz: true
-description: 
+description: github开源免费指纹浏览器
 tags:
   - 指纹浏览器
   - 浏览器
@@ -19,18 +19,6 @@ categories:
 ---
 
 # github开源免费指纹浏览器
-
-## VirtualBrowser（目前 GitHub 上最受欢迎的中文开源指纹浏览器）
-- GitHub: https://github.com/Virtual-Browser/VirtualBrowser
-- 官网: https://virtualbrowser.cc/
-- 完全免费、无环境数量限制、无需登录
-- 基于 Chromium，支持多环境指纹隔离（Canvas、WebGL、User-Agent 等 30+ 参数可调）
-- 特点：轻量、指纹效果在社区反馈中比较真实，能过不少严格检测（如 web3 空投、跨境电商等场景）
-- 附加功能：窗口同步器（多窗口群控操作很方便）
-- 521MB
-![virtualbrowser主界面](https://raw.githubusercontent.com/Virtual-Browser/VirtualBrowser/main/assets/welcome_zh-cn.png)
-![virtualbrowser窗口同步器界面](https://raw.githubusercontent.com/Virtual-Browser/VirtualBrowser/main/assets/create_zh-cn.png)
-![virtualbrowser环境设置界面](https://raw.githubusercontent.com/Virtual-Browser/VirtualBrowser/main/assets/launch.png)
 
 ## XChrome
 - GitHub: https://github.com/chanawudi/XChrome
