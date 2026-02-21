@@ -5,7 +5,7 @@ catalog: true
 date: 2026-02-21 09:55:00
 math: true
 quiz: true
-description: unblockneteasemusic设置教程，包含快速开始、配置说明、文章系统、界面功能等详细介绍
+description:
 tags:
   - 指纹浏览器
   - 浏览器
@@ -58,4 +58,5 @@ categories:
 - 适合：爬虫、自动化、多账号脚本跑的人
 - 234 MB
 ![undetectable-fingerprint-browser界面](https://raw.githubusercontent.com/itbrowser-net/undetectable-fingerprint-browser/main/usage/fingerprints_zh.png)
+
 
