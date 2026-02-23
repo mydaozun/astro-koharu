@@ -8,6 +8,7 @@ date: 2024-02-23 00:00:00
   - 生活
 categories:
   - 随笔
+  - 笔记
 ---
 
 # 🌍 资源汇总与推荐
@@ -15,7 +16,7 @@ categories:
 ## 初次翻墙指南
 ## 第一次翻墙后，很多人会迷茫，不知道该看什么、该下什么 APP，甚至觉得浪费了机会。翻墙的意义不仅是打开墙外网络，更是学会获取知识、信息和新体验。
 # ✅ 核心成人资源
-- [PornHub]((https://ouo.io/a3cJDH)
+- [PornHub](https://ouo.io/a3cJDH)
 - [xvideos](https://ouo.io/cDexbK2)
 - [YouPorn](https://ouo.io/H11uSs)
 - [X-Art](https://ouo.io/T68rna)
@@ -42,24 +43,24 @@ categories:
 - [BestGirlSX-在线全球图片学习网站](https://ouo.io/9LbMT2)
 - [Photo Album-在线套图学习网站](https://ouo.io/4ZxqS1)
 - [绅士会suo](https://ouo.io/D1w2Uq)
-- [Buondua]（https://ouo.io/ZW3s2Z0）
+- [Buondua](https://ouo.io/ZW3s2Z0）
 - [buondua](https://ouo.io/ZW3s2Z0)
 - [ACG漫画网](https://ouo.io/ryyjFk)
 - [漫小肆](https://ouo.io/lC00cy)
 - [小站](https://www.伦理小站.com)
 - [爱看INS](https://ouo.io/yULOjL)
-- [国主播视频](https://5721004.xyz)
+- [国主播视频](https://ouo.io/8NyRmxU)
 - [CospTele-在线图片学习网站 考研资料](https://ouo.io/s57qa0b)
-- [妹子吧](https://meizi.in/)
+- [妹子吧](https://ouo.io/DDIPQeE)
 - [屋里社](https://ouo.io/K0nrdZf)
 - [海角情](https://ouo.io/7Akerw)
 - [每日MZT](https://ouo.io/yzOUfpe)
 - [MMM](https://ouo.io/70lleI)
-- [ADTV](https://adultiptv.net/)
-- [看妹图](https://www.kanmeitu.net/)
-- [GirlGo](https://girlgirlgo.org/)
-- [1Y Beauties](www.1y.is)
-- [妹妹图](https://mm.tvv.tw/)
+- [ADTV](https://ouo.io/aOJEXds)
+- [看妹图](https://ouo.io/aRQjYf)
+- [GirlGo](https://ouo.io/AyjYCR)
+- [1Y Beauties](https://ouo.io/LFCIFZ)
+- [妹妹图](https://ouo.io/rC36tN)
 - []()
 - []()
 - []()
@@ -271,10 +272,8 @@ categories:
 
 # ✅ 翻墙后可参考以上分类选择使用，遵守法律法规，保护个人隐私，合理利用资源，实现学习与娱乐双丰收。
 
-.grid-list { list-style:none; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:10px; } .link-card { display:block; padding:10px 12px; background:#fff; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); text-decoration:none; color:#333; font-weight:500; transition:all 0.3s ease; text-align:center; } .link-card:hover { background:#1e90ff; color:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.2); transform:translateY(-2px); } h2 { margin-top:25px; }
 
 
 
 
 
-:::
