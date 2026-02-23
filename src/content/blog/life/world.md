@@ -12,7 +12,7 @@ categories:
 ---
 
 # 🌍 资源汇总与推荐
-:::encrypted{password="1025581711"}
+:::encrypted{password="111"}
 ## 初次翻墙指南
 ## 第一次翻墙后，很多人会迷茫，不知道该看什么、该下什么 APP，甚至觉得浪费了机会。翻墙的意义不仅是打开墙外网络，更是学会获取知识、信息和新体验。
 # ✅ 核心成人资源
@@ -43,7 +43,7 @@ categories:
 - [BestGirlSX-在线全球图片学习网站](https://ouo.io/9LbMT2)
 - [Photo Album-在线套图学习网站](https://ouo.io/4ZxqS1)
 - [绅士会suo](https://ouo.io/D1w2Uq)
-- [Buondua](https://ouo.io/ZW3s2Z0）
+- [Buondua](https://ouo.io/ZW3s2Z0)
 - [buondua](https://ouo.io/ZW3s2Z0)
 - [ACG漫画网](https://ouo.io/ryyjFk)
 - [漫小肆](https://ouo.io/lC00cy)
