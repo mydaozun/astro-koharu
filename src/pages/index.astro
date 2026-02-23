@@ -52,14 +52,14 @@ const page: Page<BlogPost> = {
     >
       {stickyPosts.length > 0 && (
         <>
-          <Divider className="mt-6">精选分类</Divider>
+
           <Divider>置顶文章</Divider>
           <PostList posts={stickyPosts} showPaginator={false} />
         </>
       )}
       <Divider>文章列表</Divider>
       <PostList posts={posts} page={page} showPaginator={true} baseUrl="/posts" isHomePage={true} />
-      
+      <Divider className="mt-6">精选分类</Divider>      
       <CategoryCards />
     </div>
   </TwoColumnLayout>
