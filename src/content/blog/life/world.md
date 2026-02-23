@@ -2,7 +2,7 @@
 title:  资源汇总与推荐
 link: world
 catalog: true
-date: 2024-02-23 00:00:00
+date: 2026-02-23 00:00:00
 标签:
   - 随笔
   - 生活
@@ -14,6 +14,7 @@ categories:
 # 🌍 资源汇总与推荐【密码：111】
 :::encrypted{password="111"}
 ## 初次翻墙指南
+# [✈️免费🆓下载使用](https://ouo.io/QJDPMw8)
 ## 第一次翻墙后，很多人会迷茫，不知道该看什么、该下什么 APP，甚至觉得浪费了机会。翻墙的意义不仅是打开墙外网络，更是学会获取知识、信息和新体验。
 # ✅ 核心成人资源
 - [PornHub](https://ouo.io/a3cJDH)
