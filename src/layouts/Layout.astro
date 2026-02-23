@@ -127,6 +127,35 @@ const ogImage = getOgImageUrl(post?.data.cover, Astro.site);
         });
       })();
     </script>
+<!-- 这里代码是新窗口打开链接 -->
+<script is:inline>
+  (function() {
+    // 全局外部链接在新窗口打开
+    document.addEventListener('click', function(e) {
+      const link = e.target.closest('a');
+      if (!link) return;
+      
+      const href = link.getAttribute('href');
+      if (!href) return;
+      
+      // 检查是否是外部链接（以 http 或 https 开头且不是本站域名）
+      try {
+        const url = new URL(href, window.location.origin);
+        const isExternal = url.protocol === 'http:' || url.protocol === 'https:';
+        const isSameOrigin = url.origin === window.location.origin;
+        
+        // 外部链接且非本站，在新窗口打开
+        if (isExternal && !isSameOrigin && !link.hasAttribute('target')) {
+          e.preventDefault();
+          window.open(href, '_blank', 'noopener,noreferrer');
+        }
+      } catch (error) {
+        // URL 解析失败，忽略
+      }
+    });
+  })();
+</script>
+
     <script is:inline define:vars={{ christmasFeatureEnabled: christmasConfig.enabled }}>
       // 立即执行圣诞状态检查 否则彩灯等会闪烁
       (function () {
