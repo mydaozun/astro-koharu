@@ -1,0 +1,229 @@
+---
+title:  资源汇总与推荐
+link: world
+catalog: true
+date: 2024-02-23 00:00:00
+标签:
+  - 随笔
+  - 生活
+categories:
+  - 随笔
+---
+
+# 🌍 资源汇总与推荐
+:::encrypted{password="1025581711"}
+## 初次翻墙指南
+## 第一次翻墙后，很多人会迷茫，不知道该看什么、该下什么 APP，甚至觉得浪费了机会。翻墙的意义不仅是打开墙外网络，更是学会获取知识、信息和新体验。
+# ✅ 核心成人资源
+- [PornHub](https://www.pornhub.com)
+- [xvideos](https://www.xvideos.com)
+- [YouPorn](https://www.youporn.com)
+- [X-Art](https://www.x-art.com)
+- [Jable](https://www.jable.tv)
+- [ACG港湾](https://acghub.com)
+- [stripchat](https://www.stripchat.com)
+- [Missav](https://www.missav.com)
+- [H动漫](https://hdmanga.org)
+- [coomer](https://coomer.st/artists?q=hong&service=&sort_by=favorited&order=)
+- [onlyfans收费版](https://onlyfans.com/)
+- [onlyfans免费版](https://fapsly.net/)
+- [leakedzone](https://ouo.io/u52Sev4)
+- [cos资源学习网站](https://ouo.io/JLLfdg)
+- [肉视频](https://ouo.io/LC3imP)
+- [肉视频](https://ouo.io/xvBVWdl)
+- [韩国BJ主播视频学习网站](https://ouo.io/klwfif)
+- [X站](https://中国版.com)
+- [X站](https://优化版.com)
+- [VR](https://ouo.io/rWaQr2H)
+- [KR18](https://ouo.io/nKWmjI3)
+- [XFuLiJi](https://ouo.io/9kZjYzr)
+- [MissA](https://ouo.io/88vQtww)
+- [大人小说](https://ouo.io/y6gwJm)
+- [BestGirlSX-在线全球图片学习网站](https://ouo.io/9LbMT2)
+- [Photo Album-在线套图学习网站](https://ouo.io/4ZxqS1)
+- [绅士会suo](https://ouo.io/D1w2Uq)
+- [Buondua]（https://ouo.io/ZW3s2Z0）
+- [buondua](https://ouo.io/ZW3s2Z0)
+- [ACG漫画网](https://ouo.io/ryyjFk)
+- [漫小肆](https://ouo.io/lC00cy)
+- [小站](https://www.伦理小站.com)
+- [爱看INS](https://ouo.io/yULOjL)
+- [国主播视频](https://5721004.xyz)
+- [CospTele-在线图片学习网站 考研资料](https://ouo.io/s57qa0b)
+- [妹子吧](https://meizi.in/)
+
+
+# 🌐 翻墙必用社交网站
+- [Facebook](https://www.facebook.com)
+- [Twitter](https://twitter.com)
+- [Instagram](https://www.instagram.com)
+- [Reddit](https://www.reddit.com)
+- [Quora](https://www.quora.com)
+- [LinkedIn](https://www.linkedin.com)
+- [VK](https://vk.com)
+- [Meetup](https://www.meetup.com)
+- [Snapchat](https://www.snapchat.com)
+- [Flickr](https://www.flickr.com)
+
+# 📱 必下 App
+
+---
+
+- [Telegram](https://telegram.org)
+- [WhatsApp](https://www.whatsapp.com)
+- [Line](https://line.me)
+- [Skype](https://www.skype.com)
+- [Viber](https://www.viber.com)
+- [Google Play](https://play.google.com/store)
+- [Facebook Messenger](https://www.messenger.com)
+- [Kakao Talk](https://www.kakaocorp.com/service/KakaoTalk)
+- [Signal](https://signal.org)
+- [Discord](https://discord.com)
+- [Craigslist](https://www.craigslist.org)
+- [Feedly](https://feedly.com)
+
+# 🛒 翻墙购物网站
+
+---
+
+- [Amazon](https://www.amazon.com)
+- [eBay](https://www.ebay.com)
+- [AliExpress](https://www.aliexpress.com)
+- [KrisShop](https://www.krisshop.com)
+- [Nike](https://www.nike.com)
+- [Rakuten](https://www.rakuten.com)
+- [Shopbop](https://www.shopbop.com)
+- [MyBag](https://www.mybag.com)
+- [Skinstore](https://www.skinstore.com)
+- [BeautyBay](https://www.beautybay.com)
+
+# 📰 新闻网站
+
+---
+
+- [CNN](https://www.cnn.com)
+- [Yahoo News](https://news.yahoo.com)
+- [端传媒](https://www.storm.mg)
+- [FT 中文网](https://www.ft.com)
+- [路透中文网](https://cn.reuters.com)
+- [华尔街日报](https://www.wsj.com)
+- [BBC 中文网](https://www.bbc.com/zhongwen)
+- [纽约时报中文网](https://cn.nytimes.com)
+- [The Guardian](https://www.theguardian.com/international)
+- [VOA 美国之音](https://www.voanews.com)
+- [Bloomberg](https://www.bloomberg.com)
+
+# 🎵 音乐网站
+
+---
+
+- [Spotify](https://www.spotify.com)
+- [YouTube Music](https://music.youtube.com)
+- [Pandora](https://www.pandora.com)
+- [Apple Music](https://music.apple.com)
+- [Tidal](https://www.tidal.com)
+- [Amazon Music Unlimited](https://music.amazon.com)
+- [TuneIn](https://tunein.com)
+- [Audiomack](https://www.audiomack.com)
+- [Vevo](https://www.vevo.com)
+
+# 🎬 视频网站
+
+---
+
+- [YouTube](https://www.youtube.com)
+- [Netflix](https://www.netflix.com)
+- [Disney+](https://www.disneyplus.com)
+- [Hulu](https://www.hulu.com)
+- [Amazon Prime Video](https://www.amazon.com/Prime-Video)
+- [HBO Max](https://www.hbomax.com)
+- [TikTok](https://www.tiktok.com)
+- [IMDB](https://www.imdb.com)
+- [Fox](https://www.fox.com)
+- [Peacock TV](https://www.peacocktv.com)
+
+# 🎬 电影网站
+
+---
+
+- [LiveLeak](https://www.liveleak.com)
+- [Vimeo](https://vimeo.com)
+- [MySpace](https://myspace.com)
+- [ShowTime](https://www.showtime.com)
+
+# ⚽ 体育直播网站
+
+---
+
+- [Yahoo! Sports](https://sports.yahoo.com)
+- [FOX Sports](https://www.foxsports.com)
+- [Sky Sports](https://www.skysports.com)
+- [NBC Sports](https://www.nbcsports.com)
+- [SportLemon](https://www.sportlemon.tv)
+
+# ☁️ 网盘服务
+
+---
+
+- [OneDrive](https://onedrive.live.com)
+- [Google Drive](https://drive.google.com)
+- [Dropbox](https://www.dropbox.com)
+- [iCloud](https://www.icloud.com)
+- [Amazon Cloud Drive](https://www.amazon.com/clouddrive)
+
+# 📚 在线课程平台
+
+---
+
+- [GitHub](https://github.com)
+- [edX](https://www.edx.org)
+- [TED](https://www.ted.com)
+- [Udemy](https://www.udemy.com)
+- [Khan Academy](https://www.khanacademy.org)
+- [Coursera](https://www.coursera.org)
+- [LinkedIn Learning](https://www.linkedin.com/learning)
+- [Udacity](https://www.udacity.com)
+
+# 🎮 游戏平台
+
+---
+
+- [Twitch](https://www.twitch.tv)
+- [Steam](https://store.steampowered.com)
+- [暴雪战网](https://www.blizzard.com)
+- [IGN](https://www.ign.com)
+- [GameSpot](https://www.gamespot.com)
+- [Pogo](https://www.pogo.com)
+- [Uplay](https://www.ubisoft.com)
+- [Origin](https://www.origin.com)
+- [Epic Games](https://www.epicgames.com)
+
+# ⬇️ BT / 磁力下载
+
+---
+
+- [The Pirate Bay](https://thepiratebay.org)
+- [1337x](https://1337x.to)
+- [LimeTorrents](https://www.limetorrents.info)
+- [TorrentDownloads](https://www.torrentdownloads.me)
+- [EZTV](https://eztv.re)
+
+# 🎨 素材网站
+
+---
+
+- [Shutterstock](https://www.shutterstock.com)
+- [Slideshare](https://www.slideshare.net)
+- [iStockPhotos](https://www.istockphoto.com)
+- [Pixabay](https://pixabay.com)
+- [Imgur](https://imgur.com)
+
+# ✅ 翻墙后可参考以上分类选择使用，遵守法律法规，保护个人隐私，合理利用资源，实现学习与娱乐双丰收。
+
+.grid-list { list-style:none; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:10px; } .link-card { display:block; padding:10px 12px; background:#fff; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); text-decoration:none; color:#333; font-weight:500; transition:all 0.3s ease; text-align:center; } .link-card:hover { background:#1e90ff; color:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.2); transform:translateY(-2px); } h2 { margin-top:25px; }
+
+
+
+
+
+:::
