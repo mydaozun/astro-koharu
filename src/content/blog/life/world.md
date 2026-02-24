@@ -108,6 +108,7 @@ categories:
 ---
 
 - [韩国主播视频](https://ouo.io/8NyRmxU)
+- [potplayer视频播放器](https://potplayer.tv/?lang=zh_CN)
 - [ADTV](https://ouo.io/aOJEXds)
 - https://github.com/hafrey1/LunaTV-config
 - https://github.com/gstory0404/Cinetry
