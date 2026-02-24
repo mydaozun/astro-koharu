@@ -113,7 +113,7 @@ categories:
 - [全世界直播源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 - [iptvnator](https://github.com/4gray/iptvnator)
 - [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
-:::
++++warning 视频源
   - https://zy.catni.cn/easyconfig.json
   - https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
   - http://xiaoguozitv.cn/catys/zyplay.json
@@ -128,7 +128,7 @@ categories:
   - https://testingcf.jsdelivr.net/gh/zeee-u/lzh06@main/tv.txt
   - https://testingcf.jsdelivr.net/gh/wwb521/live@main/tv.txt
   - https://github.com/Cynxek/ZY-Player-Resouce
-
++++
 
 
 # 🌐 翻墙必用社交网站
