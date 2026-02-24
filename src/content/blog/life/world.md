@@ -106,6 +106,27 @@ categories:
 
 - [韩国主播视频](https://ouo.io/8NyRmxU)
 - [ADTV](https://ouo.io/aOJEXds)
+- [LunaTV-config](https://github.com/hafrey1/LunaTV-config)
+- [IPTV源](https://github.com/ngo5/IPTV)
+- [IPTV源](https://github.com/iptv-org/iptv)
+- [全世界直播源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+- [iptvnator](https://github.com/4gray/iptvnator)
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+- ## 第三方源整理
+- https://zy.catni.cn/easyconfig.json
+- https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
+- http://xiaoguozitv.cn/catys/zyplay.json
+- https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_old.json
+- https://github.com/Hiram-Wong/ZyPlayer/files/15360490/drpy_dzlive_0518.zip
+- https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
+- https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main//Recommendations/Recommendations.json
+- http://xiaoguozitv.cn/catys/zyplay.json
+- https://pz.nianxin.top/config.json
+- https://json02.heimuer.xyz/api.php/provide/vod
+- https://bfzyapi.com/api.php/provide/vod
+- https://testingcf.jsdelivr.net/gh/zeee-u/lzh06@main/tv.txt
+- https://testingcf.jsdelivr.net/gh/wwb521/live@main/tv.txt
+- https://github.com/Cynxek/ZY-Player-Resouce
 
 
 
