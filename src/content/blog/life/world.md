@@ -114,20 +114,20 @@ categories:
 - [iptvnator](https://github.com/4gray/iptvnator)
 - [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 +++warning 视频源
-  - https://zy.catni.cn/easyconfig.json
-  - https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
-  - http://xiaoguozitv.cn/catys/zyplay.json
-  - https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_old.json
-  - https://github.com/Hiram-Wong/ZyPlayer/files/15360490/drpy_dzlive_0518.zip
-  - https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
-  - https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main//Recommendations/Recommendations.json
-  - http://xiaoguozitv.cn/catys/zyplay.json
-  - https://pz.nianxin.top/config.json
-  - https://json02.heimuer.xyz/api.php/provide/vod
-  - https://bfzyapi.com/api.php/provide/vod
-  - https://testingcf.jsdelivr.net/gh/zeee-u/lzh06@main/tv.txt
-  - https://testingcf.jsdelivr.net/gh/wwb521/live@main/tv.txt
-  - https://github.com/Cynxek/ZY-Player-Resouce
+  - [catni](https://zy.catni.cn/easyconfig.json)
+  - [jsdelivr](https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json)
+  - [xiaoguozitv](http://xiaoguozitv.cn/catys/zyplay.json)
+  - [zy_old](https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_old.json)
+  - [drpy_dzlive](https://github.com/Hiram-Wong/ZyPlayer/files/15360490/drpy_dzlive_0518.zip)
+  - [dmtg](https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json)
+  - [Resources](https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main//Recommendations/Recommendations.json)
+  - [xiaoguozitv](http://xiaoguozitv.cn/catys/zyplay.json)
+  - [nianxin](https://pz.nianxin.top/config.json)
+  - [heimuer](https://json02.heimuer.xyz/api.php/provide/vod)
+  - [bfzyapi](https://bfzyapi.com/api.php/provide/vod)
+  - [lzh06](https://testingcf.jsdelivr.net/gh/zeee-u/lzh06@main/tv.txt)
+  - [live](https://testingcf.jsdelivr.net/gh/wwb521/live@main/tv.txt)
+  - [Cynxek](https://github.com/Cynxek/ZY-Player-Resouce)
 +++
 
 
