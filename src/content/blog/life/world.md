@@ -218,6 +218,7 @@ categories:
 ---
 
 - [YouTube](https://www.youtube.com)
+- [韩国pandalive直播](https://www.pandalive.co.kr/)
 - [Netflix](https://www.netflix.com)
 - [Disney+](https://www.disneyplus.com)
 - [Hulu](https://www.hulu.com)
