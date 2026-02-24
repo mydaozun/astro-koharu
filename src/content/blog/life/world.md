@@ -114,7 +114,7 @@ categories:
 - [iptvnator](https://github.com/4gray/iptvnator)
 - [ZYPlayer](https://github.com/Hunlongyu/ZY-Player)
   
-+++warning 视频源
+```
 - [catni](https://zy.catni.cn/easyconfig.json)
 - [jsdelivr](https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json)
 - [xiaoguozitv](http://xiaoguozitv.cn/catys/zyplay.json)
@@ -129,7 +129,7 @@ categories:
 - [lzh06](https://testingcf.jsdelivr.net/gh/zeee-u/lzh06@main/tv.txt)
 - [live](https://testingcf.jsdelivr.net/gh/wwb521/live@main/tv.txt)
 - [Cynxek](https://github.com/Cynxek/ZY-Player-Resouce)
-+++
+```
 
 
 # 🌐 翻墙必用社交网站
