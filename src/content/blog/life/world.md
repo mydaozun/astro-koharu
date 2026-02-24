@@ -46,8 +46,10 @@ categories:
 - [MissA](https://ouo.io/88vQtww)
 - [大人小说](https://ouo.io/y6gwJm)
 - [小站](https://www.伦理小站.com)
+:::info
 - [海角情](https://ouo.io/7Akerw)
-
+- [全球直播](https://ouo.io/1CrdN7V)
+:::
 
 # 🈲漫画
 
