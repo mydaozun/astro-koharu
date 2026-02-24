@@ -106,13 +106,13 @@ categories:
 
 - [韩国主播视频](https://ouo.io/8NyRmxU)
 - [ADTV](https://ouo.io/aOJEXds)
-- [LunaTVconfig](https://github.com/hafrey1/LunaTV-config)
-- [全平台IPTV播放器](https://github.com/gstory0404/Cinetry)
-- [IPTV源](https://github.com/ngo5/IPTV)
-- [IPTV源](https://github.com/iptv-org/iptv)
-- [全世界直播源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
-- [iptvnator](https://github.com/4gray/iptvnator)
-- [ZYPlayer](https://github.com/Hunlongyu/ZY-Player)
+- https://github.com/hafrey1/LunaTV-config
+- https://github.com/gstory0404/Cinetry
+- https://github.com/ngo5/IPTV
+- https://github.com/iptv-org/iptv
+- https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+- https://github.com/4gray/iptvnator
+- https://github.com/Hunlongyu/ZY-Player
   
 :::info
 - [catni](https://zy.catni.cn/easyconfig.json)
